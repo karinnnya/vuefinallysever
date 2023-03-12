@@ -348,7 +348,9 @@
       "price": 166,
       "sell": true,
       "addDate": "2023/3/7",
-      "id": 29
+      "id": 29,
+      "group": "玩具布偶",
+      "editTime": "2023/3/11 下午3:05:46"
     },
     {
       "imgUrls": "https://i.imgur.com/Q4yFMHo.jpg",
@@ -369,6 +371,11 @@
         {
           "id": 1,
           "productId": 7,
+          "qty": 3
+        },
+        {
+          "id": 2,
+          "productId": 9,
           "qty": 1
         }
       ],
@@ -531,6 +538,44 @@
       "selectedDate": "2023/3/9",
       "checkTime": "2023/3/9 下午12:46:29",
       "userId": "2",
+      "data": {
+        "ticketOrder": [
+          {
+            "id": 1,
+            "type": "全票",
+            "content": "一般入園使用",
+            "price": 700,
+            "qty": 3
+          }
+        ],
+        "ticketPay": "",
+        "ticketTotle": 2100
+      }
+    },
+    {
+      "id": 1678510332988,
+      "selectedDate": "2023/3/11",
+      "checkTime": "2023/3/11 下午12:52:12",
+      "userId": "2",
+      "data": {
+        "ticketOrder": [
+          {
+            "id": 1,
+            "type": "全票",
+            "content": "一般入園使用",
+            "price": 700,
+            "qty": 18
+          }
+        ],
+        "ticketPay": "",
+        "ticketTotle": 12600
+      }
+    },
+    {
+      "id": 1678517432339,
+      "selectedDate": "2023/3/11",
+      "checkTime": "2023/3/11 下午2:50:32",
+      "userId": "1",
       "data": {
         "ticketOrder": [
           {
